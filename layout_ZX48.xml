@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <id>custom_1781047175812</id>
+    <displayName>ZX48</displayName>
+    <description>Exported custom layout</description>
+    <category>custom</category>
+    <order>1000</order>
+    <enabledByDefault>true</enabledByDefault>
+    <viewId>layout_custom_1781047175812</viewId>
+    <tabId>tab_custom_1781047175812</tabId>
+    <rows>4</rows>
+    <cols>12</cols>
+    <buttons>
+        <button row="0" col="0" width="1" actionType="key" keyCode="8"/>
+        <button row="0" col="1" width="1" actionType="key" keyCode="9"/>
+        <button row="0" col="2" width="1" actionType="key" keyCode="10"/>
+        <button row="0" col="3" width="1" actionType="key" keyCode="11"/>
+        <button row="0" col="4" width="1" actionType="key" keyCode="12"/>
+        <button row="0" col="5" width="1" actionType="key" keyCode="13"/>
+        <button row="0" col="6" width="1" actionType="key" keyCode="14"/>
+        <button row="0" col="7" width="1" actionType="key" keyCode="15"/>
+        <button row="0" col="8" width="1" actionType="key" keyCode="16"/>
+        <button row="0" col="9" width="1" actionType="key" keyCode="7"/>
+        <button row="3" col="0" width="2" actionType="modifier" keyCode="59" label="Caps Shift" appearance="modifier"/>
+        <button row="1" col="1" width="1" actionType="key" keyCode="45"/>
+        <button row="3" col="2" width="1" actionType="key" keyCode="54"/>
+        <button row="3" col="3" width="1" actionType="key" keyCode="52"/>
+        <button row="3" col="4" width="1" actionType="key" keyCode="31"/>
+        <button row="3" col="5" width="1" actionType="key" keyCode="50"/>
+        <button row="3" col="6" width="1" actionType="key" keyCode="30"/>
+        <button row="3" col="7" width="1" actionType="key" keyCode="42"/>
+        <button row="3" col="8" width="1" actionType="key" keyCode="41"/>
+        <button row="3" col="9" width="1" actionType="modifier" keyCode="113" label="Symbol Shift" appearance="modifier"/>
+        <button row="3" col="10" width="2" actionType="key" keyCode="62" label="Space"/>
+        <button row="1" col="6" width="1" actionType="key" keyCode="53"/>
+        <button row="1" col="2" width="1" actionType="key" keyCode="51"/>
+        <button row="1" col="3" width="1" actionType="key" keyCode="33"/>
+        <button row="1" col="4" width="1" actionType="key" keyCode="46"/>
+        <button row="1" col="5" width="1" actionType="key" keyCode="48"/>
+        <button row="1" col="7" width="1" actionType="key" keyCode="49"/>
+        <button row="1" col="8" width="1" actionType="key" keyCode="37"/>
+        <button row="1" col="9" width="1" actionType="key" keyCode="43"/>
+        <button row="1" col="10" width="1" actionType="key" keyCode="44"/>
+        <button row="2" col="2" width="1" actionType="key" keyCode="47"/>
+        <button row="2" col="3" width="1" actionType="key" keyCode="32"/>
+        <button row="2" col="4" width="1" actionType="key" keyCode="34"/>
+        <button row="2" col="5" width="1" actionType="key" keyCode="35"/>
+        <button row="2" col="6" width="1" actionType="key" keyCode="36"/>
+        <button row="2" col="7" width="1" actionType="key" keyCode="38"/>
+        <button row="2" col="8" width="1" actionType="key" keyCode="39"/>
+        <button row="2" col="9" width="1" actionType="key" keyCode="40"/>
+        <button row="2" col="10" width="2" actionType="key" keyCode="66" label="Enter"/>
+        <button row="0" col="10" width="1" actionType="key" keyCode="111" label="Break"/>
+        <button row="0" col="11" width="1" actionType="key" keyCode="67" label="Delete"/>
+        <button row="2" col="0" width="1" actionType="key" keyCode="29" appearance="modifier"/>
+    </buttons>
+</layout>

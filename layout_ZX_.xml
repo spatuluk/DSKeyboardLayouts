@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <id>custom_1781038528366</id>
+    <displayName>ZX+</displayName>
+    <description>Exported custom layout</description>
+    <category>custom</category>
+    <order>1000</order>
+    <enabledByDefault>true</enabledByDefault>
+    <viewId>layout_custom_1781038528366</viewId>
+    <tabId>tab_custom_1781038528366</tabId>
+    <rows>5</rows>
+    <cols>13</cols>
+    <buttons>
+        <button row="0" col="2" width="1" actionType="key" keyCode="8" label="!" shiftLabel="1"/>
+        <button row="0" col="3" width="1" actionType="key" keyCode="9" label="@" shiftLabel="2"/>
+        <button row="0" col="4" width="1" actionType="key" keyCode="10" label="#" shiftLabel="3"/>
+        <button row="0" col="5" width="1" actionType="key" keyCode="11" label="$" shiftLabel="4"/>
+        <button row="0" col="6" width="1" actionType="key" keyCode="12" label="%" shiftLabel="5"/>
+        <button row="0" col="7" width="1" actionType="key" keyCode="13" label="&amp;" shiftLabel="6"/>
+        <button row="0" col="8" width="1" actionType="key" keyCode="14" label="&apos;" shiftLabel="7"/>
+        <button row="0" col="9" width="1" actionType="key" keyCode="15" label="(" shiftLabel="8"/>
+        <button row="0" col="10" width="1" actionType="key" keyCode="16" label=")" shiftLabel="9"/>
+        <button row="0" col="11" width="1" actionType="key" keyCode="7" label="_" shiftLabel="0"/>
+        <button row="0" col="12" width="1" actionType="key" keyCode="67" label="Delete" appearance="action" repeatable="true"/>
+        <button row="1" col="2" width="1" actionType="key" keyCode="45" label="plot" shiftLabel="Q"/>
+        <button row="1" col="3" width="1" actionType="key" keyCode="51" label="draw" shiftLabel="W"/>
+        <button row="1" col="4" width="1" actionType="key" keyCode="33" label="rem" shiftLabel="E"/>
+        <button row="1" col="5" width="1" actionType="key" keyCode="46" label="run" shiftLabel="R"/>
+        <button row="1" col="6" width="1" actionType="key" keyCode="48" label="rand" shiftLabel="T"/>
+        <button row="1" col="7" width="1" actionType="key" keyCode="53" label="return" shiftLabel="Y"/>
+        <button row="1" col="8" width="1" actionType="key" keyCode="49" label="if" shiftLabel="U"/>
+        <button row="1" col="9" width="1" actionType="key" keyCode="37" label="input" shiftLabel="I"/>
+        <button row="1" col="10" width="1" actionType="key" keyCode="43" label="poke" shiftLabel="O"/>
+        <button row="1" col="11" width="1" actionType="key" keyCode="44" label="print" shiftLabel="P"/>
+        <button row="1" col="12" width="1" actionType="key" keyCode="75" label="&quot;"/>
+        <button row="2" col="2" width="1" actionType="key" keyCode="29" label="new" shiftLabel="A"/>
+        <button row="2" col="3" width="1" actionType="key" keyCode="47" label="save" shiftLabel="S"/>
+        <button row="2" col="4" width="1" actionType="key" keyCode="32" label="dim" shiftLabel="D"/>
+        <button row="2" col="5" width="1" actionType="key" keyCode="34" label="for" shiftLabel="F"/>
+        <button row="2" col="6" width="1" actionType="key" keyCode="35" label="goto" shiftLabel="G"/>
+        <button row="2" col="7" width="1" actionType="key" keyCode="36" label="gosub" shiftLabel="H"/>
+        <button row="2" col="8" width="1" actionType="key" keyCode="38" label="load" shiftLabel="J"/>
+        <button row="2" col="9" width="1" actionType="key" keyCode="39" label="list" shiftLabel="K"/>
+        <button row="2" col="10" width="1" actionType="key" keyCode="40" label="let" shiftLabel="L"/>
+        <button row="2" col="11" width="2" actionType="key" keyCode="66" label="Enter" appearance="action"/>
+        <button row="3" col="2" width="1" actionType="key" keyCode="54" label="copy" shiftLabel="Z"/>
+        <button row="3" col="3" width="1" actionType="key" keyCode="52" label="clear" shiftLabel="X"/>
+        <button row="3" col="4" width="1" actionType="key" keyCode="31" label="cont" shiftLabel="C"/>
+        <button row="3" col="5" width="1" actionType="key" keyCode="50" label="cls" shiftLabel="V"/>
+        <button row="3" col="6" width="1" actionType="key" keyCode="30" label="border" shiftLabel="B"/>
+        <button row="3" col="7" width="1" actionType="key" keyCode="42" label="next" shiftLabel="N"/>
+        <button row="3" col="8" width="1" actionType="key" keyCode="41" label="pause" shiftLabel="M"/>
+        <button row="3" col="9" width="1" actionType="key" keyCode="56" label="."/>
+        <button row="3" col="11" width="2" actionType="modifier" keyCode="59" label="Caps Shift" appearance="modifier"/>
+        <button row="4" col="0" width="1" actionType="key" keyCode="74" label=";"/>
+        <button row="4" col="1" width="1" actionType="key" keyCode="55" label=","/>
+        <button row="4" col="2" width="7" actionType="key" keyCode="62" label="SPACE" repeatable="true"/>
+        <button row="3" col="10" width="1" actionType="shift_fn" keyCode="14" modifiers="59" label="▲" appearance="special"/>
+        <button row="4" col="10" width="1" actionType="shift_fn" keyCode="13" modifiers="113" label="▼" appearance="special"/>
+        <button row="4" col="9" width="1" actionType="shift_fn" keyCode="11" label="◀" appearance="special"/>
+        <button row="4" col="11" width="1" actionType="shift_fn" keyCode="12" label="▶" appearance="special"/>
+        <button row="0" col="1" width="1" actionType="shift_fn" keyCode="8" label="Edit" appearance="action"/>
+        <button row="1" col="0" width="1" actionType="shift_fn" keyCode="10" label="True Vid" appearance="action"/>
+        <button row="1" col="1" width="1" actionType="shift_fn" keyCode="11" label="Inv Vid" appearance="action"/>
+        <button row="2" col="0" width="1" actionType="shift_fn" keyCode="9" label="Caps Lock" appearance="special"/>
+        <button row="2" col="1" width="1" actionType="shift_fn" keyCode="16" label="Graph" appearance="action"/>
+        <button row="4" col="12" width="1" actionType="modifier" keyCode="113" label="Sym Shift" appearance="modifier"/>
+        <button row="3" col="0" width="2" actionType="modifier" keyCode="59" label="Caps Shift" appearance="modifier"/>
+        <button row="0" col="0" width="1" actionType="key" keyCode="62" label="Break" appearance="action"/>
+    </buttons>
+</layout>
