@@ -1,5 +1,6 @@
 # DSKeyboardLayouts
-XML Keyboard Layouts for use with DS Keyboard Android app.
+XML Keyboard Layouts for use with the DS Keyboard Android app.
+https://play.google.com/store/apps/details?id=com.dualscreen.keyboard
 
 Currently the layouts are just for use with Sinclair ZX Spectrum emulators, as they require some weird key combos.  
 
